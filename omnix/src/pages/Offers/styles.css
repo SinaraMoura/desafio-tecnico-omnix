@@ -1,0 +1,41 @@
+.container-offers {
+    position: absolute;
+    padding: 25px;
+    width: 100%;
+    height: 100%;
+    background: #FFEDD5;
+}
+
+.container-info {
+    margin-bottom: 25px;
+}
+
+.container-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+
+}
+
+.cards-offers {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    border: 1px solid #fafafa;
+    border-radius: 8px;
+    background-color: #fafafa;
+}
+
+.btn {
+    color: #fafafa;
+    position: fixed;
+    right: 5px;
+    text-align: center;
+
+    width: 160px;
+    background-color: #d65761;
+    border: 1px solid #d65761;
+    text-decoration: none;
+    border-radius: 3px;
+}

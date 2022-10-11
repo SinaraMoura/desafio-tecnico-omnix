@@ -1,0 +1,30 @@
+.container {
+    background: #FFEDD5;
+
+}
+
+.container-home-h1 {
+    color: #995000
+}
+
+.container-home-h2 {
+    color: #2D2C2A
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputs {
+    width: 400px;
+    height: 30px;
+    margin-bottom: 15px;
+    padding: 8px;
+}
+
+button {
+    width: 300px;
+    height: 30px;
+    cursor: pointer;
+}
