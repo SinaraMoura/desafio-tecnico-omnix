@@ -7,4 +7,4 @@ Repositório criado para o desafio técnico da Ominix
 <h1>Execução do projeto</h1>
 <p> O projeto foi criado com a ferramenta Vite</p>
 <p>Após clonar o repositório rodar no terminar npm install</p>
-<p>Após baixar as dependências rodas no terminar npm run dev (para rodar projeto)</p>
+<p>Após baixar as dependências rodar no terminal npm run dev (para rodar projeto)</p>
